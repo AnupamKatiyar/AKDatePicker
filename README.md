@@ -1,4 +1,4 @@
-# AKPickerView
+# AKDatePicker
 
 # **Installation:**
 
